@@ -35,3 +35,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Google calendar API JSON credentials
+client_secret.json
+credentials.json
